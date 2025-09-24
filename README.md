@@ -1,12 +1,10 @@
-# Chess-APK-app
-College Project (year 2024) using Java, Android Studio
-.
-.
-.
 # Chess
 ## A simple 2 player Chess Game for Android
 
 <p><img src="./screenshots/Screenshot2.png" width="40%"></p>
+
+## To launch the app
+* Download the app apk file from [here](https://github.com/DipanshKhandelwal/Chess/blob/master/apk/Chess.apk).
 
 
 
